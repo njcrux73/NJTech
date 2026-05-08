@@ -9,6 +9,10 @@ public class Task4 {
             System.out.println("Palindrome!");
         } else {
             System.out.println("Not a palindrome.");
-        }
-    }
-}
+}}}      
+    
+     /* input:173 
+     /output: "Not a palindrome."
+     
+     /If the input is 171, the output is "Palindrome!"
+     */
